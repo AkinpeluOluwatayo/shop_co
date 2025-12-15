@@ -1,0 +1,194 @@
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*    font-family: "Arial", sans-serif;*/
+/*}*/
+
+/*.homeContainer {*/
+/*    width: 100%;*/
+/*    overflow-x: hidden;*/
+/*    background: white;*/
+/*}*/
+
+
+/*.topBanner {*/
+/*    background: black;*/
+/*    color: white;*/
+/*    padding: 10px 0;*/
+/*    text-align: center;*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*.topBanner a {*/
+/*    color: #fff;*/
+/*    text-decoration: underline;*/
+/*}*/
+
+
+/*.navbar {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*    padding: 20px 50px;*/
+/*    gap: 20px;*/
+/*    background: #f8f8f8;*/
+/*}*/
+
+/*.logo {*/
+/*    font-size: 28px;*/
+/*    font-weight: 900;*/
+/*}*/
+
+/*.navLinks {*/
+/*    display: flex;*/
+/*    list-style: none;*/
+/*    gap: 25px;*/
+/*    font-size: 16px;*/
+/*    font-weight: 500;*/
+/*}*/
+
+/*.searchBox input {*/
+/*    padding: 10px 15px;*/
+/*    width: 260px;*/
+/*    border-radius: 25px;*/
+/*    border: 1px solid #ddd;*/
+/*}*/
+
+/*.navIcons span {*/
+/*    font-size: 24px;*/
+/*    margin-left: 20px;*/
+/*    cursor: pointer;*/
+/*}*/
+
+
+/*.hero {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*    padding: 50px 60px;*/
+/*    gap: 40px;*/
+/*}*/
+
+/*.heroLeft {*/
+/*    flex: 1;*/
+/*}*/
+
+/*.heroLeft h1 {*/
+/*    font-size: 48px;*/
+/*    font-weight: 900;*/
+/*    line-height: 1.2;*/
+/*    margin-bottom: 20px;*/
+/*}*/
+
+/*.heroLeft p {*/
+/*    font-size: 16px;*/
+/*    color: #555;*/
+/*    margin-bottom: 25px;*/
+/*    width: 90%;*/
+/*}*/
+
+/*.shopBtn {*/
+/*    background: black;*/
+/*    color: white;*/
+/*    padding: 14px 28px;*/
+/*    border: none;*/
+/*    border-radius: 30px;*/
+/*    font-size: 16px;*/
+/*    cursor: pointer;*/
+/*    margin-bottom: 40px;*/
+/*}*/
+
+/*.stats {*/
+/*    display: flex;*/
+/*    gap: 30px;*/
+/*}*/
+
+/*.stats div h2 {*/
+/*    font-size: 28px;*/
+/*    font-weight: 900;*/
+/*}*/
+
+/*.stats div p {*/
+/*    color: #777;*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*!* RIGHT IMAGE *!*/
+/*.heroRight {*/
+/*    flex: 1;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.heroRight img {*/
+/*    width: 100%;*/
+/*    max-width: 480px;*/
+/*    border-radius: 10px;*/
+/*}*/
+
+
+/*.brands {*/
+/*    display: flex;*/
+/*    justify-content: space-around;*/
+/*    padding: 30px 0;*/
+/*    background: black;*/
+/*    color: white;*/
+/*    font-size: 28px;*/
+/*    font-weight: 700;*/
+/*}*/
+
+/*.brands p {*/
+/*    cursor: default;*/
+/*}*/
+
+
+/*@media (max-width: 992px) {*/
+/*    .hero {*/
+/*        flex-direction: column;*/
+/*        text-align: center;*/
+/*    }*/
+
+/*    .heroLeft p {*/
+/*        width: 100%;*/
+/*    }*/
+
+/*    .stats {*/
+/*        justify-content: center;*/
+/*    }*/
+
+/*    .searchBox input {*/
+/*        width: 180px;*/
+/*    }*/
+/*}*/
+
+/*@media (max-width: 768px) {*/
+/*    .navbar {*/
+/*        flex-direction: column;*/
+/*        gap: 15px;*/
+/*    }*/
+
+/*    .navLinks {*/
+/*        flex-wrap: wrap;*/
+/*        justify-content: center;*/
+/*    }*/
+
+/*    .brands {*/
+/*        flex-wrap: wrap;*/
+/*        font-size: 22px;*/
+/*        gap: 15px;*/
+/*    }*/
+/*}*/
+
+/*@media (max-width: 576px) {*/
+/*    .heroLeft h1 {*/
+/*        font-size: 36px;*/
+/*    }*/
+
+/*    .searchBox input {*/
+/*        width: 140px;*/
+/*    }*/
+
+/*    .hero {*/
+/*        padding: 30px;*/
+/*    }*/
+/*}*/
