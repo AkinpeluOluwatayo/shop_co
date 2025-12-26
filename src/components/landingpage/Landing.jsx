@@ -6,13 +6,11 @@ function Landing() {
     return (
         <div className="bg-#f2f0f1 p-6">
 
-            {/* TOP BANNER */}
             <div className="w-full bg-black text-white text-center py-2 text-sm">
                 Sign up and get 20% off your first order.{" "}
                 <Link to="/Signup" className="underline cursor-pointer">Sign Up Now</Link>
             </div>
 
-            {/* NAVBAR */}
             <nav className="w-full flex items-center justify-between px-6 lg:px-20 py-5 border-b">
                 <div className="text-2xl font-bold">SHOP.CO</div>
 
@@ -23,7 +21,7 @@ function Landing() {
                     <li className="cursor-pointer hover:text-black">Brands</li>
                 </ul>
 
-                {/* Search box */}
+
                 <div className="hidden md:flex items-center bg-gray-100 px-4 py-2 rounded-full w-72">
                     <Search className="w-5 h-5 text-gray-500" />
                     <input
@@ -33,14 +31,13 @@ function Landing() {
                     />
                 </div>
 
-                {/* Right icons */}
+
                 <div className="flex items-center gap-5 text-gray-700">
                     <ShoppingCart className="cursor-pointer" />
                     <User className="cursor-pointer" />
                 </div>
             </nav>
 
-            {/* HERO SECTION */}
             <section className="w-full flex flex-col lg:flex-row items-center lg:items-start justify-between px-6 lg:px-20 py-10 gap-10">
                 {/* LEFT */}
                 <div className="lg:w-1/2 flex flex-col gap-6">
@@ -78,7 +75,6 @@ function Landing() {
                     </div>
                 </div>
 
-                {/* RIGHT */}
                 <div className="lg:w-1/2 flex justify-center">
                     <img
                         src="/images/LandingPage.png"
@@ -88,7 +84,7 @@ function Landing() {
                 </div>
             </section>
 
-            {/* BRANDS */}
+
             <section className="w-full bg-black text-white py-6 flex flex-wrap justify-center gap-10 text-xl lg:text-2xl font-semibold">
                 <p>VERSACE</p>
                 <p>ZARA</p>
